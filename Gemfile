@@ -1,6 +1,6 @@
 source "http://rubygems.org"
 
-gem 'fastimage', '~> 1.2.13'
+gem 'fastimage', '~> 2.2.0'
 gem 'rake'
 gem 'guard'
 gem 'guard-rspec'
